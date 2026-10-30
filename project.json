@@ -1,0 +1,22 @@
+{
+  "name": "apex-legends-performance-tuner",
+  "displayName": "Apex Legends Performance Tuner",
+  "programType": "performance-tuner",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Display profiles",
+    "Frame pacing notes",
+    "Test sessions"
+  ],
+  "topics": [
+    "apex-legends-performance-tuner",
+    "apex-legends-tools",
+    "apex-legends-menu",
+    "apex-legends-settings",
+    "apex-legends-configs",
+    "apex-legends-display-profiles",
+    "apex-legends-frame-pacing-notes"
+  ]
+}
