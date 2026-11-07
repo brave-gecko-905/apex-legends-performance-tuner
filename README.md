@@ -47,3 +47,4 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 Apex Legends Performance Tuner · Program documentation and download information.
+                                                                                                    
